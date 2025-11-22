@@ -1,5 +1,8 @@
 # 💫 About Me:
-i'm now working on : buliding websites in good ways<br>i'm looking : for team to work together and learn new ways together<br>i'm learning : more about front-end and back -end 
+
+I'm currently working on building websites in efficient and scalable ways.
+I'm looking for a team to collaborate with and learn new techniques together.
+I'm also learning more about both front-end and back-end development.
 
 
 ## 🌐 Socials:
