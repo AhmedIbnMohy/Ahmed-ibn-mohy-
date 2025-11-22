@@ -1,8 +1,28 @@
 # 💫 About Me:
 
-I'm currently working on building websites in efficient and scalable ways.
+🔹 What I'm Doing
+
+I'm currently working on building websites in efficient, scalable, and modern ways.
+
+I focus on creating clean, user-friendly interfaces and writing maintainable, high-quality code.
+
+I enjoy turning ideas into real, functional applications.
+
+🔹 What I'm Looking For
+
 I'm looking for a team to collaborate with and learn new techniques together.
-I'm also learning more about both front-end and back-end development.
+
+I'm open to contributing to real projects and joining groups that value growth, teamwork, and innovation.
+
+I enjoy sharing ideas and helping others because collaboration builds better products.
+
+🔹 What I'm Learning
+
+I'm improving my skills in both front-end and back-end development to become a strong full-stack developer.
+
+I'm continuously learning new tools, best practices, and modern technologies.
+
+I’m also working on enhancing my problem-solving abilities and staying updated with the latest industry trends.
 
 
 ## 🌐 Socials:
